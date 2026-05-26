@@ -1,0 +1,11 @@
+{
+  "name": "TikTok Video Pendek",
+  "description": "Aplikasi video pendek mirip TikTok dengan filter wajah interaktif, musik latar populer, pengunggahan video hingga 3 menit, serta fitur berbagi langsung.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
